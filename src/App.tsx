@@ -1,6 +1,8 @@
 import './App.css'
 
 import Nav from './Nav'
+import GettingStarted from './docs/GettingStarted'
+import DocsMenu from './docs/DocsMenu'
 
 function App() {
   return (
@@ -45,186 +47,10 @@ function App() {
             />
           </a>
         </div>
-        <p>
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v v vvwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-        </p>
-        <p>
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v v vvwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-        </p>
-        <p>
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v v vvwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-        </p>
-        <p>
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v v vvwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-        </p>
-        <p>
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-          v v vvwiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk wiuhdefalk
-          wiuhdefalkwiuhdefalk wiuhdefalkwiuhdefalk v v v wiuhdefalk wiuhdefalk
-        </p>
+        <div>
+          <GettingStarted />
+          <DocsMenu />
+        </div>
       </div>
     </>
   )
