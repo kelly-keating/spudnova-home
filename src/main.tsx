@@ -16,9 +16,8 @@ import DocsMenu from './components/docs/DocsMenu.tsx'
 import DocsPage from './components/docs/DocsPage.tsx'
 
 const myTheme = {
-  secondaryColor: '#97bbb1',
-  textColor: '#99ddcb',
-  textAlt: '#ef8354',
+  // textColor: '#99ddcb',
+  // textAlt: '#ef8354',
 }
 
 createRoot(document.getElementById('root')!).render(

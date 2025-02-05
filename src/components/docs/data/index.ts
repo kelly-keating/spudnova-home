@@ -24,10 +24,15 @@ export const docsPages = {
 } as Record<string, DocData<string[]>>
 
 export const docsList = {
-  elements: [
-    { name: 'Button', link: 'button' },
-    { name: 'VisuallyHidden', link: 'visually-hidden' },
+  blocks: [
+    { name: 'Navbar', link: 'navbar', icon: 'navbar.svg' },
+    { name: 'Table', link: 'table', icon: 'table.svg' },
   ],
-  layouts: [{ name: 'Navbar', link: 'navbar' }],
-  utilities: [{ name: 'ThemeSetter', link: 'theme-setter' }],
+  elements: [
+    { name: 'Button', link: 'button', icon: 'button.svg' },
+    { name: 'Code', link: 'code', icon: 'code.svg' },
+    { name: 'VisuallyHidden', link: 'visually-hidden', icon: 'hidden.svg' },
+  ],
+  layouts: [{ name: 'FlexGrid', link: 'flex-grid', icon: 'grid.svg' }],
+  utilities: [{ name: 'ThemeSetter', link: 'theme-setter', icon: 'theme.svg' }],
 }

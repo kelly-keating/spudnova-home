@@ -11,16 +11,16 @@ export default {
   ],
   customization: {
     keys: ['name', 'type', 'default value', 'example value'],
-    required: [['onClick', 'function', '', '() => console.log("Clicked")']],
+    required: [['onClick', 'function', ' ', '() => console.log("Clicked")']],
     optional: [
       ['children within Button', 'ReactNode', 'Click Me!', 'Button Text'],
-      ['submit', 'boolean', 'false', ''],
-      ['disabled', 'boolean', 'false', ''],
+      ['submit', 'boolean', 'false', ' '],
+      ['disabled', 'boolean', 'false', ' '],
       [
         'variant',
         '"primary" | "danger" | "ghost" | "success"',
         '"primary"',
-        '',
+        ' ',
       ],
     ],
   },

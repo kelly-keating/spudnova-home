@@ -5,7 +5,7 @@ function Nav() {
   return (
     <Navbar
       shadow
-      className='col-3'
+      className='bg-3'
       left={
         <Link to='/' aria-label='Home - Spudnova UI'>
           <img
